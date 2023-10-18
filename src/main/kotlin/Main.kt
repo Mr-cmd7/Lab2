@@ -1,3 +1,5 @@
+//Saidbaev AP Средний уровень вариант 7
+
 fun main(){
     val rectangle1 = Rectangle(10,20,50,60)
 
